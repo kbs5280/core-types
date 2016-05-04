@@ -1,5 +1,11 @@
 # Core Types
 
+array - complete
+fixnum - complete
+string - complete
+block - complete
+hash - complete
+
 ## Starting with Array Exercises
 
 If you've never used Git you can follow these instructions from your terminal:
